@@ -1,2 +1,2 @@
-# Ceedik
-Corporate application for all products associated with Ceedik inc.
+# Random 
+I add all my random shit here
